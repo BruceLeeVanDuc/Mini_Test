@@ -12,7 +12,7 @@ export const videos: Video[] = [
     id: 2,
     videoUrl:
       "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/friday.mp4",
-    authorName: "Duc Le Van",
+    authorName: "Le Van Dat",
     description: "Friday vibes — cuối tuần là phải chill thôi nào ",
     likesCount: 800,
   },
